@@ -1,0 +1,85 @@
+Nome;Categoria;Bioma;Local;Vida;Dano;Notas;Fraqueza;Resistência
+Eikthyr;Chefe;Prados;;500;20 Perfuração, 15 Raio;3 locais;Atordoamento;Nenhuma
+The Elder;Chefe;Floresta Negra;;2500;35 Perfuração, 60 Contusão;4 locais;Fogo;Veneno, Espírito, Atordoamento
+Bonemass;Chefe;Pântano;;5000;80 Contusão + 50 Veneno, 130 Veneno;5 locais;Contusão, Gelo;Fogo, Perfuração, Corte
+Moder;Chefe;Montanha;;7500;30 Perfuração + 200 Gelo, 110 Corte, 200 Gelo;3 locais;Fogo;Gelo, Espírito, Atordoamento
+Yagluth;Chefe;Planícies;;10000;65 Fogo + 65 Raio, 100 Fogo, 40 Fogo + 20 Raio, 40 Contusão + 120 Fogo;4 locais;Fogo, Perfuração;Veneno, Atordoamento
+The Queen;Chefe;Terras da Névoa;;12500;130 Corte, 140 Perfuração + 100 Veneno, 150 Perfuração, 100 Corte, 40 Contusão + 40 Veneno;5 locais;Perfuração;Espírito
+Fader;Chefe;Terras de Cinzas;;25000;120 Perfuração, 210 Perfuração, 200 Perfuração, 200 Perfuração, 140 Perfuração, 60 Fogo, 120 Fogo / 40 Contusão, 120 Perfuração;5 locais;Perfuração;Fogo, Espírito
+Brenna;Minichefe;Não informado;Smouldering Tombs;1200;"Espada: 60 Corte + 20 Fogo; Nova de Fogo: 75 Fogo";;Contusão, Gelo;Fogo, Veneno
+Geirrhafa;Minichefe;Não informado;Howling Caverns;3700;"Garra: 40 Corte + 70 Gelo; Garra dupla: 60 Corte + 70 Gelo; Cone de gelo: 100 Gelo; Anéis de gelo: 90 Gelo";;Fogo;Gelo
+Zil & Thungr;Minichefe;Não informado;Sealed Tower;Thungr: 4200, Zil: 2100;Variado;;Nenhuma;Nenhuma
+Lord Reto;Minichefe;Não informado;Tomb of Lord Reto;7500;480 Corte;;Espírito;Perfuração, Fogo, Gelo
+Boar;Agressiva;Prados;;10;10 Contusão;Tem medo de fogo;Espírito;Nenhuma
+Neck;Agressiva;Prados;;5;6 Corte;Tem medo de fogo;Fogo;Veneno, Espírito
+Greyling;Agressiva;Prados;;20;5 Corte;Evita fogo;Fogo;Veneno, Espírito
+Greydwarf;Agressiva;Floresta Negra;;40;14 Corte, 10 Contusão;Evita fogo;Fogo;Veneno, Espírito
+Greydwarf brute;Agressiva;Floresta Negra;;150;30 Corte;;Fogo;Veneno, Espírito
+Greydwarf shaman;Agressiva;Floresta Negra;;60;14 Corte, 30 Veneno;Cura aliados em 20 de vida ao longo de 4 segundos;Fogo;Veneno, Espírito
+Troll;Agressiva;Floresta Negra;;600;60, 70, 50 Contusão;Destrói a maioria das árvores, pedras e minérios;Perfuração;Contusão, Espírito
+Skeleton;Agressiva;Floresta Negra;;40;25 Corte, 20 Perfuração;Aparece com arma corpo a corpo ou à distância;Contusão, Fogo;Perfuração, Gelo, Veneno
+Rancid remains;Agressiva;Floresta Negra;Câmaras Funerárias;100;20 Contusão + 30 Veneno;;Contusão, Fogo;Perfuração, Gelo, Veneno
+Ghost;Agressiva;Floresta Negra;Câmaras Funerárias;60;25 Corte;;Espírito;Contusão, Perfuração, Corte, Veneno
+Root;Agressiva;Floresta Negra;Luta contra The Elder;20;55 Contusão;;Fogo;Gelo, Veneno, Atordoamento
+Bear;Agressiva;Floresta Negra;;800;55 Perfuração, 50 Corte, 40 Corte de árvore, 25 Corte, 40 Corte de árvore, 50 Contusão, 40 Corte de árvore;Destrói todas as árvores, pedras e minérios;Fogo;Gelo, Contusão, Perfuração, Espírito, Corte de árvore, Picareta
+Serpent;Agressiva;Oceano;;400;70 Corte;"Nada; só aparece à noite ou com mau tempo";Gelo;Veneno, Fogo, Espírito, Atordoamento
+Abomination;Agressiva;Pântano;;800;60, 80, 80 Contusão;Destrói todas as árvores, pedras e minérios;Fogo;Contusão, Perfuração, Gelo, Veneno, Espírito
+Blob;Agressiva;Pântano;;50;90 Veneno;Consegue pular;Contusão, Gelo, Raio;Fogo, Perfuração, Corte, Veneno, Atordoamento
+Oozer;Agressiva;Pântano;;150;115 Veneno;"Consegue pular; ao morrer se divide em 2 Blobs";Contusão, Gelo, Raio;Fogo, Perfuração, Corte, Veneno, Atordoamento
+Draugr;Agressiva;Pântano;;100;48 Corte, 48 Perfuração;Aparece com arma corpo a corpo ou à distância;Fogo;Veneno
+Draugr elite;Agressiva;Pântano;;200;58 Corte;;Fogo;Veneno
+Leech;Agressiva;Pântano;;60;20 Perfuração + 70 Veneno;Nada;Veneno;Fogo, Espírito, Atordoamento
+Surtling;Agressiva;Pântano;;20;10 Contusão, 40 Fogo;Sofre 5 de dano por tick na água;Gelo;Fogo, Veneno, Espírito
+Wraith;Agressiva;Pântano;;100;60 Corte;"Voa; só aparece à noite ou em casas abandonadas";Fogo, Espírito;Contusão, Perfuração, Corte, Gelo, Veneno
+Kvastur;Agressiva;Pântano;;700;80 Contusão;"Neutro até ser provocado; volta após 1 hora se morrer";Fogo;Veneno, Espírito
+Wolf;Agressiva;Montanha;;80;70 Corte;"Rápido; só aparece com estrelas à noite";Espírito;Nenhuma
+Drake;Agressiva;Montanha;;100;90 Gelo;Atira 3 lanças de gelo;Fogo;Gelo, Espírito, Atordoamento
+Fenring;Agressiva;Montanha;;300;85, 95 Corte;Só aparece à noite;Fogo;Veneno
+Stone Golem;Agressiva;Montanha;;800;110 Contusão, 110 Perfuração;Destrói árvores e pedras;Picareta;Perfuração, Corte, Fogo, Gelo, Veneno, Espírito
+Bat;Agressiva;Montanha;Cavernas de Gelo;10;20 Corte;Voa e é muito rápido;Fogo, Espírito;Contusão, Corte, Perfuração, Gelo, Veneno
+Ulv;Agressiva;Montanha;Cavernas de Gelo;50;70 Corte;Só aparece dentro das Cavernas de Gelo;Veneno;Fogo
+Cultist;Agressiva;Montanha;Cavernas de Gelo;200;40 Fogo, 35 Corte / 40 Fogo, 35 Corte / 50 Fogo;Só aparece dentro das Cavernas de Gelo;Veneno;Fogo
+Deathsquito;Agressiva;Planícies;;10;90 Perfuração;Voa e é muito rápido;Espírito, Atordoamento;Nenhuma
+Lox;Agressiva;Planícies;;1000;130 Corte, 120 Contusão;Destrói árvores e pedras;Fogo;Contusão, Gelo, Corte, Espírito
+Fuling;Agressiva;Planícies;;175;85 Contusão / Perfuração / Corte, 45 Contusão + 45 Fogo;Aparece com arma corpo a corpo ou à distância;Espírito;Nenhuma
+Fuling Berserker;Agressiva;Planícies;;800;130 Contusão;Destrói árvores e pedras;Espírito;Nenhuma
+Fuling shaman;Agressiva;Planícies;;100;100 Contusão, 20 Contusão + 100 Fogo;Cria escudo protetor nos aliados;Espírito;Nenhuma
+Growth;Agressiva;Planícies;Poços de piche;100;45 Contusão + 50 Veneno;Deixa o jogador lento com o efeito Tarred;Contusão, Fogo;Gelo, Perfuração, Corte, Veneno, Atordoamento
+Vile;Agressiva;Planícies;;1200;20, 60, 120, 130 Corte, 130 Perfuração, 150 Contusão, 40 Corte de árvore, 40 Picareta;Destrói todas as árvores, pedras e minérios;Fogo, Espírito;Gelo, Contusão, Perfuração, Corte, Veneno, Corte de árvore, Picareta
+Seeker;Agressiva;Terras da Névoa;;200;90, 120 Perfuração / 100 Contusão;Voa até chegar perto do jogador;Contusão, Perfuração, Corte;Espírito
+Seeker Soldier;Agressiva;Terras da Névoa;;1500;100, 120 Contusão / 100 Corte;Ponto fraco no abdômen;Contusão, Perfuração, Corte;Espírito
+Seeker Brood;Agressiva;Terras da Névoa;;20;60 Perfuração;;Contusão, Perfuração, Corte;Espírito
+Gjall;Agressiva;Terras da Névoa;;1500;50 Contusão + 80 Fogo, 20 Contusão;"Voa e gera Ticks; ponto fraco na parte de baixo";Fogo;Espírito
+Tick;Agressiva;Terras da Névoa;;50;50 Perfuração;Gruda no jogador e ataca repetidamente;Perfuração;Espírito
+Dvergr rogue;Agressiva;Terras da Névoa;;350;110 Perfuração / 70 Contusão;Neutro até ser provocado;Espírito;Nenhuma
+Dvergr mage;Agressiva;Terras da Névoa;;350;70 Contusão / 100, 130 Fogo / 150, 200 Gelo;"Neutro até ser provocado; três variantes com ataques diferentes";Fogo, Gelo;Espírito
+Bonemaw;Agressiva;Terras de Cinzas;;1100;;;Gelo;Veneno, Fogo, Espírito, Corte de árvore, Picareta
+Lava Blob;Agressiva;Terras de Cinzas;;300;;;Contusão, Gelo, Raio;Perfuração, Veneno, Fogo, Corte de árvore, Picareta
+Fallen Valkyrie;Agressiva;Terras de Cinzas;;1500;;;Espírito;Fogo, Veneno, Corte de árvore, Picareta
+Charred Warlock;Agressiva;Terras de Cinzas;;600;;Pode invocar um Twitcher;Espírito;Perfuração, Gelo, Fogo, Veneno, Corte de árvore, Picareta
+Charred Warrior;Agressiva;Terras de Cinzas;;600;;;Espírito;Perfuração, Fogo, Veneno, Corte de árvore, Picareta
+Charred Marksman;Agressiva;Terras de Cinzas;;200;;;Espírito;Perfuração, Fogo, Veneno, Corte de árvore, Picareta
+Charred Twitcher;Agressiva;Terras de Cinzas;;220;;;Espírito;Perfuração, Fogo, Veneno, Corte de árvore, Picareta
+Volture;Agressiva;Terras de Cinzas;;200;;;Gelo;Veneno, Corte de árvore, Picareta
+Morgen;Agressiva;Terras de Cinzas;;1600;;;Raio;Contusão, Corte, Perfuração, Fogo
+Asksvin;Agressiva;Terras de Cinzas;;800;;;Fogo, Veneno;Espírito, Corte de árvore, Picareta
+Skugg;Agressiva;Terras de Cinzas;;400;;;Perfuração, Picareta, Fogo, Raio;Veneno, Corte de árvore
+Crow;Passiva;Floresta Negra;;1;;Voa para longe quando você se aproxima;Nenhuma;Nenhuma
+Deer;Passiva;Prados, Floresta Negra;;10;;Foge quando você se aproxima;Nenhuma;Nenhuma
+Fish;Passiva;Oceano;;;;Pode ser pego quando está fora da água;Nenhuma;Nenhuma
+Gull;Passiva;Prados, Floresta Negra, Planícies;;1;;Voa para longe quando você se aproxima;Nenhuma;Nenhuma
+Leviathan;Passiva;Oceano;;;;40 de vida por craca abissal;Nenhuma;Nenhuma
+Hare;Passiva;Terras da Névoa;;10;;Foge quando você se aproxima;Nenhuma;Nenhuma
+Chicken;Passiva;Nenhum;;10;;Só nasce de ovo chocado;Nenhuma;Nenhuma
+Hen;Passiva;Nenhum;;80;;Substitui o Chicken quando cresce;Nenhuma;Nenhuma
+Ash crow;Passiva;Terras de Cinzas;;1;;Voa para longe quando você se aproxima;Nenhuma;Nenhuma
+Valkyrie;NPC;Nenhum;Aparece ao entrar em um mundo com um novo personagem.;;;;Nenhuma;Nenhuma
+Hugin;NPC;Nenhum;Em qualquer lugar de Valheim. Nasce perto dos jogadores.;;;;Nenhuma;Nenhuma
+Munin;NPC;Nenhum;Atualmente nas Terras da Névoa e Terras de Cinzas. Nasce perto dos jogadores.;;;;Nenhuma;Nenhuma
+Haldor;NPC;Nenhum;Locais selecionados na Floresta Negra.;;;;Nenhuma;Nenhuma
+Halstein;NPC;Nenhum;Locais selecionados perto do Haldor, na Floresta Negra.;;;;Nenhuma;Nenhuma
+Hallon;NPC;Nenhum;Locais selecionados perto da Hildir, nos Prados.;;;;Nenhuma;Nenhuma
+Blåbär;NPC;Nenhum;Locais selecionados perto da Hildir, nos Prados.;;;;Nenhuma;Nenhuma
+Hildir;NPC;Nenhum;Locais selecionados nos Prados.;;;;Nenhuma;Nenhuma
+The Bog Witch;NPC;Nenhum;Locais selecionados no Pântano.;;;;Nenhuma;Nenhuma
+Odin;NPC;Nenhum;Em qualquer lugar de Valheim. Nasce a uma certa distância dos jogadores.;;;;Nenhuma;Nenhuma
